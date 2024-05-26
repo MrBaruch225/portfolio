@@ -1,15 +1,29 @@
-
-## Tete Jordy Mensah
+# Tete Jordy Mensah
 **Location**: New York, NY | **Email**: [Jordymensah@gmail.com](mailto:Jordymensah@gmail.com) | **LinkedIn**: [tete-mensah-197526131](https://www.linkedin.com/in/tete-mensah-197526131)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)
 
 ---
 
-### About Me
+## About Me
 Aspiring Data Scientist deeply passionate about the intersection of data and business. I am currently pursuing an MS in Data Science at Pace University, holding a robust academic background with a BBA in Economics from Baruch College. My professional journey includes roles that leverage my strong analytical skills to solve complex business problems, aiming to transform data into strategic insights.
 
 ---
 
-### Education
+## Table of Contents
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Professional Experience](#professional-experience)
+- [Data Science Projects](#data-science-projects)
+  - [Predictive Climate Analysis](#predictive-climate-analysis)
+  - [Ensemble Clustering Algorithm Development](#ensemble-clustering-algorithm-development)
+- [Tableau Visualizations](#tableau-visualizations)
+  - [Unveiling Lifestyle's Impact on Heart Attack Risks in America](#unveiling-lifestyles-impact-on-heart-attack-risks-in-america)
+- [Contact Me](#contact-me)
+
+---
+
+## Education
 - **Pace University**, Seidenberg School of Computer Science and Information Systems  
   MS in Data Science, GPA: 3.9 (Expected Jan 2025)
 
@@ -18,7 +32,7 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 
 ---
 
-### Technical Skills
+## Technical Skills
 - **Programming Languages**: Python, SQL
 - **Database Management**: MySQL, PostgreSQL, MongoDB
 - **Data Visualization Tools**: Tableau, Power BI
@@ -27,36 +41,43 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 
 ---
 
-### Professional Experience
+## Professional Experience
 - **Data and Compliance Assistant**, Pace University – Office of Institutional Equity and Title IX Compliance
 - **Finance Co-Chairperson**, Tremont United Methodist Church
 
 ---
 
-### Data Science Projects
-#### Predictive Climate Analysis
+## Data Science Projects
+### Predictive Climate Analysis
 **Description**: This project showcases my Python skills through a comprehensive analysis and prediction of temperatures in India. I initiated the project by meticulously cleaning the dataset, followed by exploratory data analysis to uncover underlying patterns. The data was then segmented into testing and working sets to prepare for predictive modeling. I applied ARIMA, SARIMA, and FB Prophet models, each analyzed for their predictive performance, with a focus on understanding their handling of seasonality in climatic data.
 
 **Technologies and Tools Used**: Python, Jupyter Notebook, Pandas, Seaborn, Scikit-learn, Numpy, ARIMA, SARIMA, FB Prophet
 
-**Key Achievements**: The project highlighted the robust capabilities of FB Prophet in forecasting temperatures, demonstrating superior performance over ARIMA and SARIMA models. This success is attributed to FB Prophet's enhanced handling of seasonality, making it a valuable tool for climate-related predictions.
+**Key Achievements**:
+- Demonstrated superior performance of FB Prophet in handling seasonality compared to ARIMA and SARIMA.
+- Highlighted the robust capabilities of FB Prophet in forecasting temperatures.
 
 **View More**: [Predictive Climate Analysis Project](https://github.com/MrBaruch225/portfolio/blob/e25b086e9e3750e06bdb69dfc83144d9842aa6ad/Predictive%20Climate%20Analysis%20Python%20Project.pdf)
 
-#### Ensemble Clustering Algorithm Development
+### Ensemble Clustering Algorithm Development
 **Description**: This project focused on developing an ensemble clustering algorithm that integrates the strengths of K-Means and DBSCAN. The goal was to create a robust clustering solution that minimizes the sensitivity to initial centroids and enhances clustering performance. The project involved iterating through multiple models to autonomously find optimal parameter values, handling different datasets effectively.
 
 **Technologies and Tools Used**: Python, Jupyter Notebook, K-Means, DBSCAN, scikit-learn, pandas, numpy
 
-**Key Achievements**: Developed an adaptive algorithm that adjusts clustering parameters based on initial K-Means outputs. Enhanced ability to handle high-dimensional data and noisy datasets through improved parameter estimation techniques. Demonstrated refined clustering outcomes, surpassing standard clustering approaches, particularly in challenging datasets.
+**Key Achievements**:
+- Developed an adaptive algorithm adjusting clustering parameters based on initial K-Means outputs.
+- Enhanced handling of high-dimensional data and noisy datasets through improved parameter estimation techniques.
+- Achieved refined clustering outcomes surpassing standard approaches.
 
 **View More**:
 - [Model 1 - Initial Ensemble Clustering Approach](https://github.com/MrBaruch225/portfolio/blob/e25b086e9e3750e06bdb69dfc83144d9842aa6ad/Model%201-%20Algorithms%20for%20Data%20Science%20Final%20Project%20(1).ipynb)
 - [Model 2.5 - Refined Clustering Algorithm](https://github.com/MrBaruch225/portfolio/blob/aa4c144b793045e842a7166a2065fc48b8b53d2a/Model%202.5-%20Algorithms%20for%20Data%20Science%20Final%20Project.ipynb)
 - [Ensemble Clustering Project Report](https://github.com/MrBaruch225/portfolio/blob/e25b086e9e3750e06bdb69dfc83144d9842aa6ad/Ensemble%20Clustering.pdf)
 
-### Tableau Visualizations
-#### Unveiling Lifestyle's Impact on Heart Attack Risks in America
+---
+
+## Tableau Visualizations
+### Unveiling Lifestyle's Impact on Heart Attack Risks in America
 **Description**: This interactive dashboard provides a comprehensive analysis of how various lifestyle factors influence heart attack risks across different demographics in America. Designed to offer actionable insights, the dashboard helps in identifying high-risk groups and understanding the impact of lifestyle choices on heart health.
 
 **Technologies Used**: Tableau
@@ -73,9 +94,11 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 
 ---
 
-### Contact Me
+## Contact Me
 For more details or to discuss potential opportunities, please feel free to contact me via email at [Jordymensah@gmail.com](mailto:Jordymensah@gmail.com) or connect with me on LinkedIn at [tete-mensah-197526131](https://www.linkedin.com/in/tete-mensah-197526131).
 
 ---
+
+
 
 
