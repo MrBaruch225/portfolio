@@ -24,10 +24,10 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 ---
 
 ## Education
-- **Pace University**, Seidenberg School of Computer Science and Information Systems  
+- ![Pace University Logo](assets/img/Pace.png) **Pace University**, Seidenberg School of Computer Science and Information Systems  
   MS in Data Science, GPA: 3.9 (Expected Jan 2025)
 
-- **Baruch College**, Zicklin School of Business  
+- ![Baruch College Logo](assets/img/baruch.png) **Baruch College**, Zicklin School of Business  
   BBA in Economics, Minor in Psychology, Law & Policy (Aug 2020)
 
 ---
@@ -89,13 +89,8 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 - Time series analysis to track changes and trends over time
 
 **View Dashboard**:
-- ![Dashboard Screenshot](https://github.com/MrBaruch225/portfolio/blob/8b2c985a815ab2c844c059653f2a89723110f7d1/Screenshot%202024-04-29%20173126.png)
+- ![Dashboard Screenshot](assets/img/Screenshot%202024-04-29%20173126.png)
 - [Interact with the Dashboard on Tableau Public](https://public.tableau.com/views/UnveilingLifestylesImpactonHeartAttackRisksinAmerica/FinalDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
----
-
-## Contact Me
-For more details or to discuss potential opportunities, please feel free to contact me via email at [Jordymensah@gmail.com](mailto:Jordymensah@gmail.com) or connect with me on LinkedIn at [tete-mensah-197526131](https://www.linkedin.com/in/tete-mensah-197526131).
 
 ---
 
