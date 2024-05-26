@@ -24,10 +24,10 @@ Aspiring Data Scientist deeply passionate about the intersection of data and bus
 ---
 
 ## Education
-- ![Pace University Logo](images/Pace.png) **Pace University**, Seidenberg School of Computer Science and Information Systems  
+- <img src="images/Pace.png" alt="Pace University Logo" style="width: 100px;"/> **Pace University**, Seidenberg School of Computer Science and Information Systems  
   MS in Data Science, GPA: 3.9 (Expected Jan 2025)
 
-- ![Baruch College Logo](images/baruch.png) **Baruch College**, Zicklin School of Business  
+- <img src="images/baruch.png" alt="Baruch College Logo" style="width: 100px;"/> **Baruch College**, Zicklin School of Business  
   BBA in Economics, Minor in Psychology, Law & Policy (Aug 2020)
 
 ---
