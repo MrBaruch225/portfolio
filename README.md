@@ -1,4 +1,4 @@
-# Tete Jordy Mensah
+# My Portfolio
 **Location**: New York, NY | **Email**: [Jordymensah@gmail.com](mailto:Jordymensah@gmail.com) | **LinkedIn**: [tete-mensah-197526131](https://www.linkedin.com/in/tete-mensah-197526131)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin) ![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)
