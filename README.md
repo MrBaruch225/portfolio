@@ -78,4 +78,4 @@ For more details or to discuss potential opportunities, please feel free to cont
 
 ---
 
-This README now includes the "Unveiling Lifestyle's Impact on Heart Attack Risks in America" Tableau project with a screenshot and a link to the interactive dashboard on Tableau Public. Let me know if there's anything else you would like to add or modify!
+
